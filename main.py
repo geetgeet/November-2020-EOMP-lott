@@ -1,4 +1,4 @@
-"""Class 1 Gabriel Moses"""
+
 from tkinter import *
 from tkinter import messagebox
 #creating tkinter window
