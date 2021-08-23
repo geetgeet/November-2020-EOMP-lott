@@ -1,5 +1,5 @@
 # November-2020-EOMP-lott
-##Lotto Draw Exercise.
+## Lotto Draw Exercise.
 
 For this assignment, we were task to create a lotto system using Python and python module Tkinter.
 
